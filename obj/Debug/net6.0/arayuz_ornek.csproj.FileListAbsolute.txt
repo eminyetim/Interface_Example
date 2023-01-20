@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\bin\Debug\net6.0\arayuz_ornek.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\bin\Debug\net6.0\arayuz_ornek.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\bin\Debug\net6.0\arayuz_ornek.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\bin\Debug\net6.0\arayuz_ornek.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\bin\Debug\net6.0\arayuz_ornek.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\arayuz_ornek.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\arayuz_ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\arayuz_ornek.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\arayuz_ornek.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\arayuz_ornek.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\arayuz_ornek.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\refint\arayuz_ornek.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\arayuz_ornek.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\arayuz_ornek.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\arayuz_ornek\obj\Debug\net6.0\ref\arayuz_ornek.dll
